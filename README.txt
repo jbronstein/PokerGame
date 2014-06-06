@@ -1,6 +1,5 @@
 Student: Josh Bronstein
 
-Theme: Harry Potter Theme, Monte Carlo Advisor = The Sorting Hat.
 
 Game Logic: Every player starts with 100 Galleons. It costs 5 Galleons to play each round, which each player (if they have atleast 5 Galleons) will pay up front. The players are then dealt their hands. The user (who will always go first) can either raise, pass, or fold (since user always goes first, there is never a reason to fold here). Then each computer exchanges their cards based on Monte Carlo advice. The computer has two sets of decisions based on if there has been a raise before their move. If there  has been a raise already, they can either match the raise or fold. If there hasn't been a raise, they can then either raise, pass, or fold. 
 
